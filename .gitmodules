@@ -5,6 +5,3 @@
 [submodule "minired"]
 	path = minired
 	url = https://github.com/cran/minired
-[submodule "redatamx"]
-	path = redatamx
-	url = https://github.com/cran/redatamx
